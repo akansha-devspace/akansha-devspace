@@ -63,7 +63,7 @@ A platform that analyzes a student's skills, interests and resume to recommend r
 
 An AI-assisted application that analyzes packaged-product labels and helps identify compliance-related information using OCR, AI-based extraction and deterministic rule validation.
 
-🔗 [Live Project](https://pack-scan-ai-three.vercel.app/)
+🔗 [Live Project](https://pack-scan-aii.vercel.app/)
 
 ---
 
