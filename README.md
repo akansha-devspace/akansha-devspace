@@ -19,7 +19,7 @@ I enjoy building practical applications, solving programming problems, and explo
 
 ### Languages
 
-`Java` `Python` `JavaScript` `SQL`
+`Java` `Python`
 
 ### Web Development
 
