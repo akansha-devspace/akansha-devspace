@@ -86,8 +86,8 @@ I'm continuously working on strengthening my programming fundamentals, building 
 
 ## 🤝 Let's Connect
 
-* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akansha-saini-29a9b5322/)
-* 💻 **GitHub:** [@akanshasaini](https://github.com/)
+* 💼 **LinkedIn:** [Akansha Saini](https://www.linkedin.com/in/akansha-saini-29a9b5322/)
+* 💻 **GitHub:** [akansha-devespace](https://github.com/akansha-devspace)
 
 ---
 
