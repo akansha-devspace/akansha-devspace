@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akansha</h1>
-<h3 align="center">A passionate Computer Science student and aspiring Software Developer from India 🇮🇳, currently pursuing B.Tech and building projects in Java and Web Development. I enjoy solving problems, learning new technologies, and turning ideas into practical applications.</h3>
+<h3 align="center">A passionate Computer Science student and aspiring Software Developer, currently pursuing B.Tech and building projects in Java and Web Development. I enjoy solving problems, learning new technologies, and turning ideas into practical applications.</h3>
 
 - 📫 How to reach me **akanshasaini1210@gmail.com**
 
