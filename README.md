@@ -1,11 +1,94 @@
-<h1 align="center">Hi 👋, I'm Akansha</h1>
-<h3 align="center">A passionate Computer Science student and aspiring Software Developer, currently pursuing B.Tech and building projects in Java and Web Development. I enjoy solving problems, learning new technologies, and turning ideas into practical applications.</h3>
+# Hi, I'm Akansha 👋
 
-- 📫 How to reach me **akanshasaini1210@gmail.com**
+### 💻 Aspiring Software Developer | B.Tech CSE Student | Java & Web Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a passionate Computer Science student from India 🇮🇳, currently pursuing my **B.Tech in Computer Science Engineering**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+I enjoy building practical applications, solving programming problems, and exploring how **software development, AI, and web technologies** can be combined to create useful solutions.
+
+* 🎓 B.Tech CSE — **Meerut Institute of Engineering & Technology**
+* 💻 Currently focusing on **Java, DSA & Web Development**
+* 🚀 Building **AI-powered and web-based projects**
+* 🧠 Improving my problem-solving and programming skills
+* 🤝 Interested in collaborating on innovative software projects
+* 🎯 Aspiring to build a career as a **Software Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Java` `Python` `JavaScript` `SQL`
+
+### Web Development
+
+`HTML` `CSS`
+
+### Tools
+
+`Git` `GitHub` `VS Code`
+
+### Core Skills
+
+`DSA` `Problem Solving` `Responsive Web Design` `API Development`
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ AI Scheme Saathi
+
+**AI-Powered Government Scheme Matching Platform**
+
+A platform designed to help marginalized entrepreneurs discover government schemes based on their profile, eligibility and requirements.
+
+🔗 [Live Project](https://ai-scheme-saathi.vercel.app/)
+
+---
+
+### 🤖 SmartIntern AI
+
+**AI-Based Internship Recommendation Engine**
+
+A platform that analyzes a student's skills, interests and resume to recommend relevant internship opportunities.
+
+🔗 [Live Project](https://smartintern-ai.vercel.app/)
+
+---
+
+### 📦 PackScan AI
+
+**AI-Powered Product Label Compliance Scanner**
+
+An AI-assisted application that analyzes packaged-product labels and helps identify compliance-related information using OCR, AI-based extraction and deterministic rule validation.
+
+🔗 [Live Project](https://pack-scan-ai-three.vercel.app/)
+
+---
+
+## 📚 Currently Learning
+
+* ☕ Java & Object-Oriented Programming
+* 🧩 Data Structures & Algorithms
+* 🌐 Advanced Web Development
+* 🤖 AI-powered application development
+
+---
+
+## 🎯 My Goals
+
+> **Learn → Build → Solve → Improve → Repeat 🚀**
+
+I'm continuously working on strengthening my programming fundamentals, building real-world projects, and preparing myself for opportunities in software development.
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akansha-saini-29a9b5322/)
+* 💻 **GitHub:** [@akanshasaini](https://github.com/)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
